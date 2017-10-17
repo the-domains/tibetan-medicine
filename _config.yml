@@ -1,0 +1,95 @@
+layout_spectrum: 0.5685225442313765
+typography_spectrum: 0.5963759191999083
+color:
+  brandStrength: 0.8104354755182078
+  lightness: 0.29543413044755706
+  saturation: 0.7781420117472806
+  rhythmicContrast: 0.0069232512712663055
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Tibetan-Medicine
+url: 'http://tibetan-medicine.online'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: τι είναι τα EPAM
+    id: c53decd9-6746-400e-a11f-69c255baf229
+    type: content
+  - name: η ιστορία των EPAM
+    id: 702c4d78-7692-4aa9-810b-483ee75e092a
+    type: content
+  - name: οι τρόποι χρήσης των EPAM
+    id: 7b7a4169-622d-49e7-8771-10689fa62cc3
+    type: content
+  - name: 'υποστήριξη '
+    id: bc88d5b8-ee14-4ba8-ab41-a3920d7d6242
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b08583d-d1e6-42b6-aef4-e9f67645b102.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b08583d-d1e6-42b6-aef4-e9f67645b102.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d290fffa-6267-4680-ac8c-ec0f239a3365.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d290fffa-6267-4680-ac8c-ec0f239a3365.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f99edeec-d0b8-4adc-8bbc-63b0910f7367.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b30fa71-3b68-4b0a-8863-850423f95a9a.png
+author:
+  name: Designed by George Christodoulou Jagaro & Magdalena Manta Hotoleanu
+  email: christodoulou_george@yahoo.co.uk
+  url: 'https://thegrid.ai/about-us-62556/'
+title: Παραδοσιακή Θιβετανική Θεραπευτική
+description: Θιβετανικά Φυσικά Προϊόντα
+github: true
