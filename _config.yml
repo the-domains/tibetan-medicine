@@ -95,3 +95,7 @@ description: Θιβετανικά Φυσικά Προϊόντα
 github: true
 analytics:
   facebook: '319488701735593'
+purpose:
+  - type: external
+    url: 'https://athinaionfos1.typeform.com/to/IPysVa'
+    label: Αγόρασε
