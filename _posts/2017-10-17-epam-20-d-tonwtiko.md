@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Το EPAM 20 D είναι πολλαπλασιασμένη τροποποίηση του EPAM 20, το οποίο είναι
   εμπλουτισμένο με κωνοφόρα.
-dateModified: '2017-10-21T07:56:05.063Z'
-datePublished: '2017-10-21T07:56:06.188Z'
+dateModified: '2017-10-21T07:56:06.251Z'
+datePublished: '2017-10-21T07:56:06.894Z'
 title: EPAM 20 D Τονωτικό
 author: []
 publisher: {}
