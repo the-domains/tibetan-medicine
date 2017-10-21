@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Σύνθεση:πόσιμο νερό, 14% αιθανόλη, γλυκερόλη, πρόπολη, δασική πεύκη, ginseng,
   βαλεριάνα, κράταιγος, μέντα.
-dateModified: '2017-10-21T07:53:22.963Z'
-datePublished: '2017-10-21T07:53:23.955Z'
+dateModified: '2017-10-21T07:53:24.498Z'
+datePublished: '2017-10-21T07:53:25.291Z'
 title: EPAM 11 για Αλλεργίες
 author: []
 publisher: {}
