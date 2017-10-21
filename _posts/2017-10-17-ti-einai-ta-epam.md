@@ -4,8 +4,8 @@ description: >-
   Αλήθεια τι σημαίνει – EPAM; Είναι συντομογραφία των λέξεων Emulsion Propolis
   Activated Modification (Ενεργοποιημένο Γαλάκτωμα Πρόπολης). Το όνομα αυτό
   ακολουθείται από έναν αριθμό, που δείχνει μια συγκεκριμένη τροποποίηση.
-dateModified: '2017-10-21T07:41:35.696Z'
-datePublished: '2017-10-21T07:41:36.647Z'
+dateModified: '2017-10-21T09:06:37.324Z'
+datePublished: '2017-10-21T09:06:38.284Z'
 title: Τι είναι τα EPAM
 author: []
 publisher: {}
