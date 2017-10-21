@@ -4,8 +4,8 @@ description: >-
   Σαν ανταμοιβή για τη Σοβιετική βοήθεια στο Θιβέτ τη δεκαετία του ‘60, ο
   Θιβετανός Δαλάι Λάμα αποφάσισε να καλέσει Ρώσους καθηγητές και επιστήμονες,
   ώστε να έχουν την ευκαιρία να μελετήσουν την Αυθεντική Θιβετανική Γραμματεία. 
-dateModified: '2017-10-21T09:29:52.422Z'
-datePublished: '2017-10-21T09:29:53.560Z'
+dateModified: '2017-10-21T09:29:55.453Z'
+datePublished: '2017-10-21T09:29:55.979Z'
 title: Η Ιστορία των EPAM
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ via: {}
 sourcePath: _posts/2017-10-17-h-istoria-twn-epam.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-10-21T09:29:50.594Z'
+datePublishedOriginal: '2017-10-21T09:29:51.942Z'
 url: h-istoria-twn-epam/index.html
 _type: Article
 
