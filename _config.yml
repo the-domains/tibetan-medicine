@@ -21,9 +21,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: η ιστορία των EPAM
-    id: 702c4d78-7692-4aa9-810b-483ee75e092a
-    type: content
   - name: οι τρόποι χρήσης των EPAM
     id: 7b7a4169-622d-49e7-8771-10689fa62cc3
     type: content
