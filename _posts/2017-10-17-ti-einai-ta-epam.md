@@ -4,8 +4,8 @@ description: >-
   Αλήθεια τι σημαίνει – EPAM; Είναι συντομογραφία των λέξεων Emulsion Propolis
   Activated Modification (Ενεργοποιημένο Γαλάκτωμα Πρόπολης). Το όνομα αυτό
   ακολουθείται από έναν αριθμό, που δείχνει μια συγκεκριμένη τροποποίηση.
-dateModified: '2017-10-21T07:40:06.796Z'
-datePublished: '2017-10-21T07:40:16.011Z'
+dateModified: '2017-10-21T07:41:35.696Z'
+datePublished: '2017-10-21T07:41:36.647Z'
 title: Τι είναι τα EPAM
 author: []
 publisher: {}
@@ -13,31 +13,11 @@ via: {}
 sourcePath: _posts/2017-10-17-ti-einai-ta-epam.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-10-21T07:40:16.011Z'
+datePublishedOriginal: '2017-10-21T07:41:34.120Z'
 url: ti-einai-ta-epam/index.html
 _type: Article
 
 ---
-<!-- Facebook Pixel Code -->
-    <script>
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t,s)}(window,document,'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-     fbq('init', '319488701735593'); 
-    fbq('track', 'PageView');
-    </script>
-    <noscript>
-     <img height="1" width="1" 
-    src="https://www.facebook.com/tr?id=319488701735593&ev=PageView
-    &noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
-
 # Τι είναι τα EPAM
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc071012-6858-4664-92bd-e40ccb2f7413.jpg)
 
