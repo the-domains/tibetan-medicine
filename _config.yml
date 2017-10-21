@@ -39,6 +39,9 @@ navigation:
   - name: τρόποι χρήσης των EPAM
     id: 7b7a4169-622d-49e7-8771-10689fa62cc3
     type: content
+  - name: υποστήριξη για τα EPAM
+    id: bc88d5b8-ee14-4ba8-ab41-a3920d7d6242
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e13e9ca8-195b-47a6-936a-b58916c4805f.jpg
 title: Παραδοσιακή Θιβετανική Θεραπευτική
