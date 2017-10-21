@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Το EPAM 20C είναι πολλαπλασιασμένη τροποποίηση του EPAM 20, το οποίο είναι
   εμπλουτισμένο με σκόρδο και πεύκο.
-dateModified: '2017-10-21T07:54:56.239Z'
-datePublished: '2017-10-21T07:54:56.913Z'
+dateModified: '2017-10-21T07:54:57.978Z'
+datePublished: '2017-10-21T07:54:58.479Z'
 title: EPAM 20 C για την Γρίπη
 author: []
 publisher: {}
