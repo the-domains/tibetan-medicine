@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Σύνθεση:πόσιμο νερό, 14% αιθανόλη, γλυκερόλη, πρόπολη, χαμομήλι, ginseng,
   δασική πεύκη, αχιλλέα, τσουκνίδα, βαλσαμόχορτο, μοσχοκάρυδο.
-dateModified: '2017-10-21T07:33:01.859Z'
-datePublished: '2017-10-21T07:49:01.426Z'
+dateModified: '2017-10-21T08:01:51.903Z'
+datePublished: '2017-10-21T08:01:52.797Z'
 title: 'EPAM 31 Ιστού, για τις αρθρώσεις και την σπονδυλική στήλη'
 author: []
 publisher: {}
@@ -17,8 +17,8 @@ url: epam-31-istoy-gia-tis-ar8rwseis-kai-thn-spondylikh-sthlh/index.html
 _type: Article
 
 ---
-# **EPAM 31 Ιστού, για τις αρθρώσεις και την σπονδυλική στήλη**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/faaa5dd8-84ff-43aa-8db1-46f7cc91b12a.jpg)
+# EPAM 31 Ιστού, για τις αρθρώσεις και την σπονδυλική στήλη
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8819112bb4584e7d63b7f756be552fca/croprotate.jpg?cropheight=296&cropwidth=360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ffaaa5dd8-84ff-43aa-8db1-46f7cc91b12a.jpg&x=0&y=8)
 
 **Σύνθεση**:πόσιμο νερό, 14% αιθανόλη, γλυκερόλη, πρόπολη, χαμομήλι, ginseng, δασική πεύκη, αχιλλέα, τσουκνίδα, βαλσαμόχορτο, μοσχοκάρυδο.
 
