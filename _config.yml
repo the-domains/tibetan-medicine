@@ -30,9 +30,6 @@ navigation:
   - name: οι τρόποι χρήσης των EPAM
     id: 7b7a4169-622d-49e7-8771-10689fa62cc3
     type: content
-  - name: 'υποστήριξη '
-    id: bc88d5b8-ee14-4ba8-ab41-a3920d7d6242
-    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
