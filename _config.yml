@@ -30,7 +30,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Τι είναι τα EPAM
+  - name: τι είναι τα EPAM
     id: c53decd9-6746-400e-a11f-69c255baf229
     type: content
 favicon: >-
