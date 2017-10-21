@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Σύνθεση:πόσιμο νερό, 14% αιθανόλη, γλυκερόλη, πρόπολη, mumio, Siberian ginseng
   – Σιβηρίας, εχινάκεια, γλυκόριζα, ζέφυρος, ίνουλα (Ελένιο).
-dateModified: '2017-10-21T07:56:42.422Z'
-datePublished: '2017-10-21T07:56:43.130Z'
+dateModified: '2017-10-21T07:56:44.309Z'
+datePublished: '2017-10-21T07:56:44.824Z'
 title: EPAM 21 Βρογχικό
 author: []
 publisher: {}
