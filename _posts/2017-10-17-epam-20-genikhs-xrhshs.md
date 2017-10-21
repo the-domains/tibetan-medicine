@@ -5,8 +5,8 @@ description: >-
   – Σιβηρίας, ginseng, άκορος κάλαμος, γλυκόριζα, παιώνια, μέντα, κάρδαμον,
   βαλεριάνα, τσουκνίδα δίοικα, βαλσαμόχορτο, ίνουλα (Ελένιο), παναγιόχορτο,
   καλέντουλα, badan (Bergenie).
-dateModified: '2017-10-21T07:38:29.199Z'
-datePublished: '2017-10-21T07:45:32.539Z'
+dateModified: '2017-10-21T07:54:25.059Z'
+datePublished: '2017-10-21T07:54:26.078Z'
 title: EPAM 20 Γενικής χρήσης
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ url: epam-20-genikhs-xrhshs/index.html
 _type: Article
 
 ---
-# **EPAM 20 Γενικής χρήσης**
+# EPAM 20 Γενικής χρήσης
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4186389-0ad9-4bde-b64c-a627421e066b.jpg)
 
 **Σύνθεση**:πόσιμο νερό, 14% αιθανόλη, γλυκερόλη, πρόπολη, mumio, Siberian ginseng -- Σιβηρίας, ginseng, άκορος κάλαμος, γλυκόριζα, παιώνια, μέντα, κάρδαμον, βαλεριάνα, τσουκνίδα δίοικα, βαλσαμόχορτο, ίνουλα (Ελένιο), παναγιόχορτο, καλέντουλα, badan (Bergenie).
