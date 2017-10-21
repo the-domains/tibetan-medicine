@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '1ο βάθμια: Γιώργο Χριστοδούλου Jagaro, Mαγδαλένα Χοτολεάνου (Ελλάδα)'
-dateModified: '2017-10-21T07:30:09.289Z'
-datePublished: '2017-10-21T09:23:06.857Z'
+dateModified: '2017-10-21T09:25:35.855Z'
+datePublished: '2017-10-21T09:25:36.725Z'
 title: Η Υποστήριξη των EPAM στην Ελλάδα
 author: []
 publisher: {}
