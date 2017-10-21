@@ -20,10 +20,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: οι τρόποι χρήσης των EPAM
-    id: 7b7a4169-622d-49e7-8771-10689fa62cc3
-    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
