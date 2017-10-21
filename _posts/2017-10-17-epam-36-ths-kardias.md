@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Σύνθεση:πόσιμο νερό, 14% αιθανόλη, γλυκερόλη, πρόπολις, ginseng, βαλεριάνα,
   κράταιγος
-dateModified: '2017-10-21T08:05:44.035Z'
-datePublished: '2017-10-21T08:05:45.062Z'
+dateModified: '2017-10-21T08:05:45.262Z'
+datePublished: '2017-10-21T08:05:45.741Z'
 title: EPAM 36 για την Καρδιά
 author: []
 publisher: {}
